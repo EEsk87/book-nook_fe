@@ -1,0 +1,11 @@
+.book-detail-container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .book-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
